@@ -1,7 +1,4 @@
 # **📊 Customer Churn Prediction Dashboard**  
-**Predict customer attrition risk with AI-powered insights**  
-
-(https://customer-churn-prediction-ankit-parwatkar.streamlit.app/)   
 
 A **Streamlit-powered** interactive dashboard that predicts customer churn probability using a **deep neural network** (TensorFlow). Designed for businesses to proactively retain at-risk customers by analyzing key behavioral and demographic factors.  
 
