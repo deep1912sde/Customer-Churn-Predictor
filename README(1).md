@@ -69,10 +69,6 @@ A **Streamlit-powered** interactive dashboard that predicts customer churn proba
 
 ---
 
-## **📬 Contact**  
-For questions or collaborations, reach out:  
-📧 **Email**: ankitparwatkar35@gmail.com  
-🔗 **LinkedIn**: (https://linkedin.com/in/ankitparwatkar)  
 
 ---
 
